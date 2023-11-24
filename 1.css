@@ -1,0 +1,86 @@
+
+body {
+    font-family: sans-serif;
+}
+header  {
+    
+    background-color: aquamarine;
+    font-family: Montserrat;
+    padding: 105;
+
+}
+.b {
+  text-align: center;
+}
+header a {
+  text-align: end;
+  border: 2px solid tomato;
+  background-color: violet;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+
+.logo {
+  height: 40px;
+  text-align: center;
+  padding-top: 3px;
+  padding-left: 3px;
+}
+nav {
+  text-align: center;
+  margin-top: 5px;
+  border:1px solid rgb(26, 196, 226);
+  margin-top: 10px;
+  padding: 10px;
+  background-color: thistle;
+}
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+     border:1px solid rgb(26, 196, 226);
+    margin: 10px;
+     background-color: rgb(216, 213, 16);
+     padding: 10px;
+     border-radius: 5px;
+}
+
+h1 {
+  border: 2 px solid yellowgreen;
+  border-radius: 20px;
+  color: lightblue;
+  padding:20;
+  background-color: brown;
+  text-align: center;
+}
+footer {
+  border: 2px solid white;
+  border-radius: 10px;
+  color: black;
+  background-color: brown;
+  font-size: 10px;
+    
+     padding: 10px;
+      
+
+}
+footer p{
+      border-bottom: rgb(155, 9, 9);
+      background-color: white;
+      font-size:15px;
+      padding-top: 2px;
+          }
+.prod_1{
+    background-color: rgb(102, 108, 190);
+}
+
+h2 {
+ color: rgb(209, 24, 184);
+}
+.aa{
+  border: 2px solid cornflowerblue;
+  padding: 3px;
+  text-decoration:none;
+  font-size: 25px;
+}
